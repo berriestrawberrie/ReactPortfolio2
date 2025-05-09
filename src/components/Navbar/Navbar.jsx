@@ -2,6 +2,7 @@ import React, {useState} from 'react'
 import styles from '../Navbar/Navbar.module.css'
 import menubar from '../../assets/nav/menuIcon.png'
 import closebar from '../../assets/nav/closeIcon.png'
+import berrie from '../../../public/pink-berrie.png'
 
 
 
@@ -11,7 +12,7 @@ export const Navbar =() =>{
 
     return(
         <nav className={styles.navbar}>
-            <a href="/" className={styles.title}>Portfolio</a>
+            <a href="/" className={styles.title}><img className={styles.logo} src={berrie}/>Portfolio</a>
             <div className={styles.menu}>
                 <img className={styles.menuBtn} 
                 src={menuOpen? closebar : menubar} 

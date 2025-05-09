@@ -1,26 +1,25 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
+    "title": "My Dream Pony",
+    "imageSrc": "projects/phpgame.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["Laravel","MySQL"],
+    "source": "https://github.com/berriestrawberrie/MyDreamPony"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Archive Database",
+    "imageSrc": "projects/typing.png",
+    "description": "A web app that allows users to interact with a SQL database via Laravel.",
+    "skills": ["Laravel","MySQL"],
+
+    "source": "https://github.com/berriestrawberrie/archDatabase"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
+    "title": "React Portfolio",
+    "imageSrc": "projects/port.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["React"],
+    "demo": "https://brooke-r-brown.netlify.app/",
+    "source": "https://github.com/berriestrawberrie/ReactPortfolio2"
   }
 ]

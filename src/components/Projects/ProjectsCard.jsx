@@ -11,7 +11,7 @@ export const ProjectCards = ({project}) =>{
                        return <li className={styles.skill} key={id}>{skill}</li>
                     })}</ul>
                     <div className={styles.links}>
-                        <a className={styles.link} href={project.demo}>Demo</a>
+                        {project.demo? <a className={styles.link} href={project.demo}>Demo</a> : ""}
                          <a className={styles.link} href={project.source}>Source</a>
                     </div>
                 </div>
