@@ -11,8 +11,8 @@ export const Navbar =() =>{
 
 
     return(
-        <nav className={styles.navbar}>
-            <a href="/" className={styles.title}><img className={styles.logo} src={berrie}/>Portfolio</a>
+        <nav className={styles.navbar} >
+            <a href="#hero" className={styles.title}><img className={styles.logo} src={berrie}/>Portfolio</a>
             <div className={styles.menu}>
                 <img className={styles.menuBtn} 
                 src={menuOpen? closebar : menubar} 

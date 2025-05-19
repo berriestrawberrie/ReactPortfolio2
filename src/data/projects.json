@@ -1,25 +1,51 @@
 [
   {
-    "title": "My Dream Pony",
-    "imageSrc": "projects/phpgame.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["Laravel","MySQL"],
-    "source": "https://github.com/berriestrawberrie/MyDreamPony"
+    "title": "Cat Facts",
+    "imageSrc": "projects/catfacts.png",
+    "description": "Mini game using fetched API data with login/signup using local storage",
+    "skills": ["Tailwinds","React"],
+    "demo": "https://react-cat-facts.netlify.app/",
+    "source": "https://github.com/berriestrawberrie/CatFacts"
   },
+    {
+    "title": "E-Commerce",
+    "imageSrc": "projects/shoply.png",
+    "description": "A mockup Ecommerce Website using ReactJS and Tailwind CSS",
+    "skills": ["React","Tailwinds"],
+    "demo": "https://shoplify-react.netlify.app/",
+    "source": "https://github.com/berriestrawberrie/E-Commerce"
+  },
+    {
+    "title": "Matching Game",
+    "imageSrc": "projects/moji.png",
+    "description": "A react matching game using Emoji API and tailwindsCSS.",
+    "skills": ["React","Tailwinds"],
+    "demo": "https://react-matchmoji.netlify.app/",
+    "source": "https://github.com/berriestrawberrie/MatchMoji"
+  },
+    {
+    "title": "Resturant MockUp",
+    "imageSrc": "projects/resturant.png",
+    "description": "A responsive resturant website using Bootstrap 5 and HTML5",
+    "skills": ["Bootstrap","HTML5"],
+    "demo": "https://bootstrap-resturant.netlify.app/",
+    "source": "https://github.com/berriestrawberrie/bootstrap-resturant"
+  },
+
   {
+    "title": "React Portfolio",
+    "imageSrc": "projects/port.png",
+    "description": "A responsive portfolio designed with React and Modular CSS",
+    "skills": ["React","Module CSS"],
+    "demo": "https://brooke-r-brown.netlify.app/",
+    "source": "https://github.com/berriestrawberrie/ReactPortfolio2"
+  },
+    {
     "title": "Archive Database",
     "imageSrc": "projects/typing.png",
     "description": "A web app that allows users to interact with a SQL database via Laravel.",
     "skills": ["Laravel","MySQL"],
 
     "source": "https://github.com/berriestrawberrie/archDatabase"
-  },
-  {
-    "title": "React Portfolio",
-    "imageSrc": "projects/port.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React"],
-    "demo": "https://brooke-r-brown.netlify.app/",
-    "source": "https://github.com/berriestrawberrie/ReactPortfolio2"
   }
 ]
